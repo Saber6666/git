@@ -6,7 +6,8 @@ public class 主 {
         String next = scanner.next();
         System.out.println(next);
         scanner.nextInt();
-        xin xin=new xin();//修改了
+        xin xin=new xin();//修改这一行代码了
+        xin xin2=new xin();//修改了
         xin.equals("dd");
     }
 }
