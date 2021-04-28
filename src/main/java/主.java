@@ -6,5 +6,7 @@ public class 主 {
         String next = scanner.next();
         System.out.println(next);
         scanner.nextInt();
+        xin xin=new xin();
+        xin.equals("dd");
     }
 }
