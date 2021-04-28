@@ -5,5 +5,6 @@ public class 主 {
         Scanner scanner=new Scanner(System.in);
         String next = scanner.next();
         System.out.println(next);
+        scanner.nextInt();
     }
 }
