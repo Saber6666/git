@@ -8,6 +8,7 @@ public class 主 {
         scanner.nextInt();
         xin xin=new xin();//修改这一行代码了
         xin xin2=new xin();//修改了
+        xin2.equals("xfddf");
         xin.equals("dd");
     }
 }
