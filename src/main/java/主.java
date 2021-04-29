@@ -10,5 +10,6 @@ public class 主 {
         xin xin2=new xin();//修改了
         xin2.equals("xfddf");
         xin.equals("dd");
+        xin xin3=new xin();//修改了
     }
 }
